@@ -1,2 +1,2 @@
-# jekyll_template
-Template for Jekyll sites with Hyde layout
+# pforret/jekyll_template
+
